@@ -27,7 +27,7 @@ Photo of the base pin
 Photo of the adjustment pin
 
 BOM:
-These are the necessary parts to be printed to complete the stand. 
+These are the necessary parts to be printed to complete the stand. Cost depends on the type of material you use for the phone stand.
 
 phone stand base 1x
 
