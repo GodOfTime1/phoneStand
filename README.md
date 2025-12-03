@@ -30,7 +30,11 @@ BOM:
 These are the necessary parts to be printed to complete the stand. 
 
 phone stand base 1x
+
 phone stand adjuster 1x
+
 phone stand holder 1x
+
 base pin 1x
+
 adjustment pin 1x
