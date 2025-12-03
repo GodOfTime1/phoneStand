@@ -25,3 +25,12 @@ Photo of the base pin
 <img width="98" height="108" alt="image" src="https://github.com/user-attachments/assets/dc3cf612-76ed-4082-8c46-8837c97bdea5" />
 
 Photo of the adjustment pin
+
+BOM:
+These are the necessary parts to be printed to complete the stand. 
+
+phone stand base 1x
+phone stand adjuster 1x
+phone stand holder 1x
+base pin 1x
+adjustment pin 1x
